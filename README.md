@@ -1,4 +1,4 @@
 # ardusniffer
-+==============
-Arduino based gas sensing device
-+==============
+==============\n
+Arduino based gas sensing device\n
+==============
